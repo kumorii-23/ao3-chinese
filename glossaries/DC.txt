@@ -1,6 +1,6 @@
-版本号：1.0.1
+版本号：1.0.2
+更新时间：2025-08-26
 维护者：kumorii-23
-更新时间：2025-08-27
 
 词条
   
@@ -22,19 +22,28 @@ Brucie：布鲁西
 Batsy：小蝙蝠
 Bats：蝙蝠
 Jon：乔
+Lo：露
+big blue：蓝大个
 
 //地点
 Gotham：哥谭
+
+Replying to：转发自
 
 
 通用词条
 
 Superbat：超编
 Bruceman：蝙布
+bruceman：蝙布
+brulark：克布
+wayneman：超布
 
 
 禁翻词条
 
+POV
+AU
 GCPD
 GL
 Spooky
