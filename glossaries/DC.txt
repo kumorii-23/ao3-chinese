@@ -23,6 +23,9 @@ Batsy：小蝙蝠
 Bats：蝙蝠
 Jon：乔
 
+//地点
+Gotham：哥谭
+
 
 通用词条
 
