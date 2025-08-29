@@ -1,5 +1,5 @@
-版本号：1.0.2
-更新时间：2025-08-26
+版本号：1.0.3
+更新时间：2025-08-29
 维护者：kumorii-23
 
 词条
@@ -13,11 +13,9 @@ Oliver Queen：奥利弗 奎因
 Arthur Curry：亚瑟 库瑞
 Tim Drake：提姆 德雷克
 
-//称号
+//称号昵称
 Green Lantern：绿灯侠
 Lantern：灯侠
-
-//昵称
 Brucie：布鲁西
 Batsy：小蝙蝠
 Bats：蝙蝠
@@ -29,6 +27,7 @@ big blue：蓝大个
 Gotham：哥谭
 
 Replying to：转发自
+Identity Porn：身份梗
 
 
 通用词条
@@ -38,6 +37,9 @@ Bruceman：蝙布
 bruceman：蝙布
 brulark：克布
 wayneman：超布
+alpha：Alpha
+beta：Beta
+omega：Omega
 
 
 禁翻词条
@@ -47,9 +49,3 @@ AU
 GCPD
 GL
 Spooky
-Alpha
-Beta
-Omega
-alpha
-beta
-omega
