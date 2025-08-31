@@ -1,5 +1,5 @@
-版本号：1.0.3
-更新时间：2025-08-29
+版本号：1.0.4
+更新时间：2025-08-30
 维护者：kumorii-23
 
 词条
@@ -21,11 +21,9 @@ Batsy：小蝙蝠
 Bats：蝙蝠
 Jon：乔
 Lo：露
-big blue：蓝大个
 
-//地点
+//其他
 Gotham：哥谭
-
 Replying to：转发自
 Identity Porn：身份梗
 Rao：拉奥
@@ -38,6 +36,7 @@ Bruceman：蝙布
 bruceman：蝙布
 brulark：克布
 wayneman：超布
+big blue：蓝大个
 alpha：Alpha
 beta：Beta
 omega：Omega
