@@ -1,5 +1,5 @@
-版本号：1.0.4
-更新时间：2025-08-30
+版本号：1.0.5
+更新时间：2025-11-08
 维护者：kumorii-23
 
 词条
@@ -7,11 +7,12 @@
 //角色
 Bruce Wayne：布鲁斯 韦恩
 Clark Kent：克拉克 肯特
-Kal-El:卡尔 艾尔
+Kal-El：卡尔 艾尔
 Kal EL：卡尔 艾尔
 Oliver Queen：奥利弗 奎因
 Arthur Curry：亚瑟 库瑞
 Tim Drake：提姆 德雷克
+Minhkhoa Khan：明科 汗
 
 //称号昵称
 Green Lantern：绿灯侠
@@ -21,6 +22,7 @@ Batsy：小蝙蝠
 Bats：蝙蝠
 Jon：乔
 Lo：露
+Khoa：科
 
 //其他
 Gotham：哥谭
