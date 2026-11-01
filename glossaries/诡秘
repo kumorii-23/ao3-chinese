@@ -7,36 +7,38 @@ Lord of the Mysteries：诡秘之主
 
 // 塔罗会
 Tarot Club：塔罗会
-Klein Moretti = 克莱恩·莫雷蒂
-Zhou Mingrui = 周明瑞
+Klein Moretti：克莱恩·莫雷蒂
+Zhou Mingrui：周明瑞
 Fool：愚者
-Gehrman Sparrow = 格尔曼·斯帕罗
-Sherlock Moriarty = 夏洛克·莫里亚蒂
-Dwayne Dantes = 道恩·唐泰斯
-Leonard Mitchell = 伦纳德·米切尔
+lotm：诡秘
+Mysteries：诡秘
+Gehrman Sparrow：格尔曼·斯帕罗
+Sherlock Moriarty：夏洛克·莫里亚蒂
+Dwayne Dantes：道恩·唐泰斯
+Leonard Mitchell：伦纳德·米切尔
 The Star：星星
-Audrey Hall = 奥黛丽·霍尔
+Audrey Hall：奥黛丽·霍尔
 Justice：正义
-Alger Wilson = 阿尔杰·威尔逊
-Derrick Berg = 戴里克·伯格
-Fors Wall = 佛尔思·沃尔
+Alger Wilson：阿尔杰·威尔逊
+Derrick Berg：戴里克·伯格
+Fors Wall：佛尔思·沃尔
 Xio Derecha：休·迪尔查
 Cattleya：嘉德丽雅
-Emlyn White = 埃姆林·怀特
+Emlyn White：埃姆林·怀特
 Mr.Luna：月亮先生
 Mr.Moon：月亮先生
 
 //廷根
-Dunn Smith = 邓恩·史密斯
-Azik Eggers = 阿兹克·艾格斯
-Melissa Moretti = 梅丽莎·莫雷蒂
-Benson Moretti = 班森·莫雷蒂
+Dunn Smith：邓恩·史密斯
+Azik Eggers：阿兹克·艾格斯
+Melissa Moretti：梅丽莎·莫雷蒂
+Benson Moretti：班森·莫雷蒂
 Naya：娜娅
 Daly：戴莉
 Kenley：科恩黎
 Royale：洛耀
 Rozanne：罗珊
-Ince Zangwill = 因斯·赞格威尔
+Ince Zangwill：因斯·赞格威尔
 Lanevus：兰尔乌斯
 Selena：赛琳娜
 Megose：梅高欧丝
@@ -50,9 +52,9 @@ Khoy University：霍伊大学
 
 //贝克兰德
 Bernadette：贝尔纳黛
-Hvin Rambis = 赫温·兰比斯
-Will Auceptin = 威尔·昂赛汀
-Jurgen Cooper = 于尔根·库珀
+Hvin Rambis：赫温·兰比斯
+Will Auceptin：威尔·昂赛汀
+Jurgen Cooper：于尔根·库珀
 Glaint：格莱林特
 Arianna：阿里安娜
 Sanguine：血族
@@ -65,24 +67,26 @@ Pinster：平斯特
 Bӧklund：伯克伦德
 
 //海上
-Danitz Dubois = 达尼兹·迪瓦布
-Roselle Gustav = 罗塞尔·古斯塔夫
+Danitz Dubois：达尼兹·迪瓦布
+Roselle Gustav：罗塞尔·古斯塔夫
 Kalvetua：卡维图瓦
- Amyrius Rieveldt = 艾弥留斯·利维特
+ Amyrius Rieveldt：艾弥留斯·利维特
 Admiral of Blood：血之上将
 Senor：塞尼奥尔
 Bayam：拜亚姆
-//亚当相关
-Amon：阿蒙
-Adam：亚当
-Medici：梅迪奇
-Zaratul：查拉图
 
-//第二纪
+//第三纪
 Antigonus：安提哥努斯
 Half-Fool：半个愚者
-
-// 真神、组织与势力
+Amon：阿蒙
+Adam：亚当
+Angel of Imagination：空想天使
+Medici：梅迪奇
+Ouroboros：乌洛琉斯
+the Snake of Mercury：水银之蛇
+White Angel：纯白天使
+Sasrir：萨斯利尔
+Salinger：萨林格尔
 
 //黑夜
 Evernight Goddess：黑夜女神
@@ -95,7 +99,8 @@ Church of Evernight：黑夜教会
 Evernight church：黑夜教堂
 
 //其他真神与势力
- Celestial Worthy：天尊
+Celestial Worthy：天尊
+CW：天尊
 Lord of the Storms：风暴之主
 Leodero：列奥德罗
 Mandated Punisher：代罚者
@@ -108,6 +113,7 @@ Eternal Blazing Sun：永恒烈阳
 Aucuses：奥赛库斯
 Earth Mother：大地母神
 Ancient Sun God：远古太阳神
+asg：白造
 True Creator：真实造物主
 Aurora Order：极光会
 Hidden Sage：隐匿贤者
@@ -119,8 +125,8 @@ Mother Tree of Desire：欲望母树
 Son of Chaos：混沌之子
 
 //其他势力
-Pallez Zoroast=帕列斯·索罗斯亚德
-Abraham：亚伯拉罕
+Pallez Zoroast：帕列斯·索罗斯亚德
+Bethel Abraham：亚伯拉罕·伯特利
 Zaratul：查拉图
 Secret Order：密修会
 Life School of Thought：生命学派
@@ -136,19 +142,18 @@ Tinder：火种
 Staff of Stars：星之杖
 Star Staff：星之杖
 
-//途径
-Wraith：怨魂
-
 //其他-地理
 soli：苏勒
 Southville：南威尔
 Balam：拜朗
 Bansy：班西
- Forsaken Land of the Gods：神弃之地
+Forsaken Land of the Gods：神弃之地
 
 //其他-历史
 War of Four Emperors：四皇之战
 Sanguine：血族
+mystery angel：诡秘天使
+Seven Lights：七光
 
 //其他-通用
 Blessed：眷者
@@ -209,6 +214,8 @@ Corpse Collector：收尸人
 Undying：不死者
 Planter：耕种者
 Lightseeker：逐光者
+Wraith：怨魂
+mysterious pathways：诡秘途径
 
 //尊名
 The Fool that doesn't belong to this era：不属于这个时代的愚者
@@ -219,6 +226,9 @@ Guardian of the Rorsted Archipelago：罗思德群岛的守护者
 Ruler of the Undersea Creatures：海底生物的支配者
 Master of Tsunamis and Storms：海啸与暴风的掌控者
 The Great Kalvetua：伟大的卡维图瓦
+The Inextinguishable Light of the Spirit World：灵界那不灭的光芒
+The Embodiment of Infinite Knowledge：无限知识的化身，
+The Red Who Wields Authority and Will：掌握权柄与威尔的红色
 
 // 禁翻词条（保持格式）
 禁翻词条
